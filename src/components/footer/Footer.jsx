@@ -37,14 +37,14 @@ const Footer = () => {
                         <b>A2Z DSA Sheet</b>
                     </a>
                 }{' '}
-                by{' '}
+               made by{' '}
                 {
                     <a
                         href={originalAuthorLinkedInLink}
                         target={'_blank'}
                         rel="noreferrer"
                     >
-                        <b>Neon</b>
+                        <b>Mayank Raj</b>
                     </a>
                 }
                 .
